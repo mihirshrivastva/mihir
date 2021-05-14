@@ -166,7 +166,7 @@
 
 </div>
 
-
+"start": "node app.js"
 
   <!-- FOOTER -->
   <footer class="container-fluid bg-dark my-0 py-3 text-light">
